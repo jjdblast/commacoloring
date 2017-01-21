@@ -12,8 +12,8 @@ function handleClientLoad() {
 }
 
 function initAuth() {
-  var clientId = "45471411055-k3q2s5c53mm3ha6846mjrcjjpc5e2o64.apps.googleusercontent.com";
-  var clientSecret = "MPOvHjRoaYkVmLLlc4N_zF7k";
+  var clientId = "138657060507-qpcm4j6admrv7bm85n5pbtj7i4mc9rte.apps.googleusercontent.com";
+  var clientSecret = "M_XWywELzOSXmIRCvusdFi50";
   var scopes = "profile";
 
   gapi.client.setApiKey(clientSecret);
